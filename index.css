@@ -1,0 +1,19 @@
+body {
+  font-family: arial;
+  background-color: lightcyan;
+}
+
+.product-card {
+  background-color: #f5f5f5; /* light grey */
+  padding: 10px; /* adds space inside the article */
+  border: 1px solid #ccc; /*border around the product */
+  margin: 15px; /*space between product cards*/
+}
+
+.btn {
+  background-color: #007bff; /* blue */
+  color: white; /* white text for the button */
+  padding: 4px; /* adding space inside the button */
+  border: none; /* removes button border */
+  cursor: pointer; /* makes the button interactive */
+}
