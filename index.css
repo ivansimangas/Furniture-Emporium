@@ -8,6 +8,7 @@ body {
   padding: 10px; /* adds space inside the article */
   border: 1px solid #ccc; /*border around the product */
   margin: 15px; /*space between product cards*/
+  width: 520px;
 }
 
 .btn {
